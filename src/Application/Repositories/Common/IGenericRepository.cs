@@ -3,6 +3,20 @@ using Domain.Common;
 
 namespace Application.Repositories.Common;
 
+public interface IRepositoryFilter<TFilter> where TFilter : class;
+public class SortableFilter
+{
+    public enum SortDirection
+    {
+        Asc,
+        Desc
+    }
+
+    public string? OrderByField { get; set; }
+
+    public SortDirection Direction { get; set; } = SortDirection.Asc;
+}
+
 public interface IGenericRepository<T> where T : BaseEntity
 {
     Task<T?> GetByIdAsync(int id, CancellationToken cancellationToken);

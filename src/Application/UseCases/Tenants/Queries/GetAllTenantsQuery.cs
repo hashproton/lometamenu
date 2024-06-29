@@ -8,7 +8,9 @@ namespace Application.UseCases.Tenants.Queries;
 
 [Authorize(Role.SuperAdmin)]
 public record GetAllTenantsQuery(
-    PaginatedQuery PaginatedQuery) : IRequest<Result<PaginatedResult<TenantQueryResponse>>>;
+    TenantFilter? TenantFilter,
+    PaginatedQuery PaginatedQuery,
+    SortableFilter SortableFilter) : IRequest<Result<PaginatedResult<TenantQueryResponse>>>;
 
 public class GetAllTenantsQueryHandler(
     ILogger logger,
@@ -19,9 +21,10 @@ public class GetAllTenantsQueryHandler(
         GetAllTenantsQuery request,
         CancellationToken cancellationToken)
     {
-        var result = await tenantRepository.GetAllSortedByQueryAsync(
+        var result = await tenantRepository.GetAllFilteredAsync(
+            request.TenantFilter,
             request.PaginatedQuery,
-            t => t.Id,
+            request.SortableFilter,
             cancellationToken);
 
         logger.LogInformation("Retrieving all tenants");

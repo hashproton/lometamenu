@@ -134,3 +134,91 @@
 2024-06-24 02:20:06.692 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 22
 2024-06-24 02:20:06.751 +01:00 [ERR] Error handling attribute TenantClaimAttribute
 2024-06-24 02:20:06.831 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:07.519 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:07.606 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:09.966 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:09.987 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:10.937 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:10.993 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:11.503 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:11.538 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:12.603 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:12.623 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:13.635 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:13.654 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:14.203 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:14.222 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:14.854 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:14.875 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:15.234 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:15.254 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:24.543 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:24.561 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:24.990 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:25.009 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:25.754 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:25.774 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:25.989 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:26.008 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:31.941 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:32.031 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:33.897 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:33.915 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:35.658 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:35.680 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:37.487 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:37.505 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:38.151 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 22
+2024-06-24 17:33:38.211 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:33:38.286 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:39.948 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:39.969 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:40.609 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:40.627 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:41.818 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 22
+2024-06-24 17:33:41.849 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:33:41.900 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:43.634 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:43.653 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:44.791 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 16
+2024-06-24 17:33:44.820 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:33:44.868 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:46.139 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:46.160 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:46.988 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 16
+2024-06-24 17:33:47.015 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:33:47.062 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:48.321 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:48.339 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:56.887 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 22
+2024-06-24 17:33:56.914 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:33:56.962 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:33:58.169 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:58.191 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:33:59.955 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:33:59.975 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:34:01.504 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 41
+2024-06-24 17:34:01.532 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:34:01.579 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:34:02.947 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:34:02.966 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:34:04.179 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 23
+2024-06-24 17:34:04.206 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:34:04.254 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:34:05.562 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:34:05.582 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:34:06.609 +01:00 [WRN] User 00000000-0000-0000-0000-000000000000 tried to access GetTenantByIdQuery with invalid tenant id 16
+2024-06-24 17:34:06.640 +01:00 [ERR] Error handling attribute TenantClaimAttribute
+2024-06-24 17:34:06.690 +01:00 [ERR] Exception has been thrown by the target of an invocation.
+2024-06-24 17:34:08.019 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:34:08.039 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:35:59.987 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:36:00.083 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:36:03.178 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:36:03.200 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:36:11.147 +01:00 [INF] Retrieving tenant 42
+2024-06-24 17:36:12.256 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:36:12.276 +01:00 [INF] Retrieving tenants info
+2024-06-24 17:36:14.500 +01:00 [INF] Tenant 42 deleted
+2024-06-24 17:37:01.138 +01:00 [INF] Retrieving all tenants
+2024-06-24 17:37:01.228 +01:00 [INF] Retrieving tenants info
